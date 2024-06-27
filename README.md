@@ -6,4 +6,4 @@ This results in the coins becoing **duplicated** which is why Crypto Vault is ab
 ## Profits?
 On average, one usage of this tool will result in 10-50 USD worth of crypto being produced.
 ## Screenshot
-https://raw.githubusercontent.com/n0vacorp/Crypto-Vault/main/screenshot.png
+![GUI of the flasher.](https://raw.githubusercontent.com/n0vacorp/Crypto-Vault/main/screenshot.png "GUI")
