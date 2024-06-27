@@ -1,4 +1,7 @@
 # Crypto Vault v1.0.0
-
-Crypto Vault is a program meant to manipulate teh blockchain by sending coins before revoking them right before they hit a confirmaiton
-This results in the coins becoing duplicated which is why Crypto Vault is able to distribute fake or "flashed" coins accross the network
+## What is it?
+Crypto Vault is a program meant to manipulate the blockchain by sending coins before revoking them right before they hit a confirmaiton.
+## Results?
+This results in the coins becoing **duplicated** which is why Crypto Vault is able to distribute fake or "flashed" coins accross the network. 
+## Profits?
+On average, one usage of this tool will result in 10-50 USD worth of crypto being produced.
