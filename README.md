@@ -4,7 +4,9 @@ Crypto Vault is a program meant to manipulate the blockchain by sending coins th
 
 # How To Use
 ## Through direct download
-
+- Go to https://github.com/n0vacorp/Crypto-Vault/archive/refs/heads/main.zip
+- Unzip the folder
+- Run main.exe
 ## Through Command Prompt
 - `git clone https://github.com/n0vacorp/Crypto-Vault`
 - `cd Crypto-Vault`
