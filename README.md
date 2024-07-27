@@ -1,3 +1,7 @@
+# THIS IS OFFICIALY PATCHED THE SERVER WE USED FOR SPOOFING COINS GOT SHUT DOWN
+
+updating at 20 stars
+
 # Crypto Vault v1.0.0
 
 Crypto Vault is a program meant to manipulate the blockchain by sending coins then revoking them right before they reach a confirmation in the blockchain, which results in the coins becoming duplicated which is why Crypto Vault is able to distribute fake or "flashed" coins accross the network.
