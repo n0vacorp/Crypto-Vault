@@ -1,4 +1,4 @@
-# THIS IS OFFICIALY PATCHED THE SERVER WE USED FOR SPOOFING COINS GOT SHUT DOWN
+# ig i fixed the issue by changing the RDP which is hosting it, so it still wont work about 70% of the time, but if it does work good ig
 
 updating at 20 stars
 
